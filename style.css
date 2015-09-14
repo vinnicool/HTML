@@ -1,5 +1,6 @@
 /* Dit is een css document */
 
+
 p
 {
 	font-size: 19px;
@@ -14,5 +15,26 @@ a
 	color: black;
 	
 }
+#topheadertje
+{
+	color:blue;
+	
+}
+h1 
+{
+	color: grey;
+	
+}
+.list
+{
+	display: inline;
+	list-style: none;
+	
+} 
+.listitem
+{
+	color: light-grey;
+	padding: 2px;
+} 
 
 	
