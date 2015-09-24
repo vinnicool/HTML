@@ -1,0 +1,46 @@
+#topmenu {
+	background-color: grey;
+	
+	
+}
+nav {
+	background-color: grey;
+}
+#htmltut {
+	color: red;
+}
+li
+{
+	list-style-type: none;
+	background-color: #A0A0A0;
+	list-style-position: inline;
+	display: inline-block;
+	margin: 1em;
+	padding: 0.2em;
+	border: 0.1em;
+	border-color: black;
+	
+}
+a
+{
+	text-decoration: none;
+	color: black;
+}
+body {
+	background-color: lightgrey;
+}
+aside
+{
+	position: right;
+	margin: 0.8em;
+	padding: 0.8em;
+	float: right;
+	background-color: #500000;
+}
+#endfooter {
+	float: bottom;
+	position: fixed;
+	bottom: 0;
+	margin: 0.5em;
+	background-color: #B8B8B8;
+}
